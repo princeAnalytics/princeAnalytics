@@ -1,8 +1,8 @@
-- Hi, I’m Prince Bhardwaj , an AI enthusiast and data scientist by profession. 
-- I’m interested in Artificial Intelligence
-- I’m currently learning Deep Learning
-- I’m looking to collaborate on Projects on github community , stackoverflow and Hackerrank
-- Reach me on my linkedin Profile provided here on git or my gmail id  - "Princebhardwaj0777@gmail.com"
+- An AI enthusiast & data scientist by profession. 
+- Currently working on the architecture of transformer models & encoder-decoders.
+- I’m looking to collaborate on Projects on github community , stackoverflow and Hackerrank.
+- Will commit a lots of models in the upcoming time on object detection , recommendation system , text analysis , voice analysis and much more .
+- Also here to help and contribute to new entrants in the industry , kept all the source code open with description - go check out .
 
 
 
