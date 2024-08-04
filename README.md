@@ -2,15 +2,12 @@
   <h1 align="center"><b>Hello there, I'm Prince 👋</b></h1>
 </p>
 
-</p>
+
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/larbi-sahli-4a08671b0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://medium.com/@larbisahli"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
-<a href="mailto:larbisahli1905@gmail.com?subject=Hello, Larbi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-
+<a href="https://www.linkedin.com/in/princebhardwaj0777/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href=“mailto:princebhardwaj0777@gmail.com?subject=Hello, Princei"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
-
 <br>
 
 
